@@ -1,6 +1,6 @@
 # C++ Exchange
 
-An in-memory limit order book and matching engine built with C++20 and Drogon.
+An in-memory limit order book and matching engine built with C++20 and Drogon (built to support multiple symbols).
 
 ## Features
 - Limit order submission and cancellation
